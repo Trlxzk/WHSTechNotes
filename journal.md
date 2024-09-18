@@ -4,3 +4,5 @@ light sensor, compass sensor, matrix sensor. THe light sensor uses light to chan
 this is a practice entry
 # september 11, 2024 
 Journal reflection, Ms.Whitby did a great job at explaining. Their was very little parts that were confusing but i was able to figure it out myself. I didnt seem to have a challenge and the lesson was great. I feel i really understood and did a great job.
+# september 17, 2024 
+This is a free week
