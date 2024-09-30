@@ -8,3 +8,4 @@ Journal reflection, Ms.Whitby did a great job at explaining. Their was very litt
 This is a free week
 # september 24, 2024 
 The code combat code was very easy to use. My problem solving skills allowed for me to make code easy and solve problems ,and the code combat differnce to sphero is not much as we re giving direction like the shpero bot. Code combat is a littler more difficult while sphero was easier but i managed to finish.
+# september 30, 2024
