@@ -9,4 +9,4 @@ This is a free week
 # september 24, 2024 
 The code combat code was very easy to use. My problem solving skills allowed for me to make code easy and solve problems ,and the code combat differnce to sphero is not much as we re giving direction like the shpero bot. Code combat is a littler more difficult while sphero was easier but i managed to finish.
 # september 30, 2024
-Our daily routine can play many roles with our life outside of coding. One role that coding can correlate with is giving instructions outside of coding. Perhaps i was to give instruction to my little brother about how to cook something or how to wash dishes. 
+Our daily routine can play many roles with our life outside of coding. One role that coding can correlate with is giving instructions outside of coding. Perhaps i was to give instruction to my little brother about how to cook something or how to wash dishes. Given in coding instructions must be very specific specific in order to complete a task this can impact me by further helping me give clear instructions. Without computer science i wold not be as clear when giving instruction or when doing other tasks.
